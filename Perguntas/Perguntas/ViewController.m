@@ -58,7 +58,6 @@
     index++;
     _botaoResposta.enabled = NO;
     _botaoPergunta.enabled = YES;
-    
 }
 
 @end
